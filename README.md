@@ -30,7 +30,7 @@
     Players take on the role of an explorer trapped in an endlessly looping cursed temple, searching for treasure while uncovering the fate of those who came before. As they progress, the player will be faced with choices that will determine their ultimate fate - greed, insanity, or perseverance.
     <br />
     <div align="center">
-    <a href="https://www.youtube.com/embed/Tpz537jXkXo?autoplay=1&mute=1" target="_blank">Trailer</a>
+    <a href="https://www.youtube.com/embed/Tpz537jXkXo" target="_blank">Trailer</a>
     </div>
   </p>
 </div>
